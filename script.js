@@ -206,7 +206,7 @@ let currentLang = 'he';
 
 // مصفوفة صور المعرض
 const galleryImages = [
-    { id: 1, url: "images/model1.webp", title: { he: "וילה מודרנית", ar: "فيلا حديثة", en: "Modern Villa" } },
+    { id: 1, url: "model1.webp", title: { he: "וילה מודרנית", ar: "فيلا حديثة", en: "Modern Villa" } },
     { id: 2, url: "https://images.unsplash.com/photo-1613490493576-7fde63acd811?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80", title: { he: "דירת פנטהאוז", ar: "بنتهوس", en: "Penthouse Apartment" } },
     { id: 3, url: "https://images.unsplash.com/photo-1613977257363-707ba9348227?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80", title: { he: "משרדים עכשוויים", ar: "مكاتب عصرية", en: "Contemporary Offices" } },
     { id: 4, url: "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80", title: { he: "בית עם נוף", ar: "منزل بإطلالة", en: "House with a View" } },
